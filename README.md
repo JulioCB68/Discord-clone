@@ -2,6 +2,10 @@
 
 <hr>
 
+<h1 align="center">
+    <img alt="Discord UI Clone" src="https://i.ibb.co/9rcLtt5/Discord-Web.png" />
+</h1>
+
 ## Techs
 
 - [x] React.js
