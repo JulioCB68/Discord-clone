@@ -1,4 +1,4 @@
-<p align="center">Discord UI Clone (partial) for study purposes.</p>
+<p align="center">Discord UI Clone.</p>
 
 <hr>
 
