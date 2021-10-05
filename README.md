@@ -1,4 +1,4 @@
-<p align="center">Discord UI Clone.</p>
+<h1 align="center">Discord UI Clone.</h1>
 
 <hr>
 
